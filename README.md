@@ -3,6 +3,8 @@
 
 # objective-dev
 
+[![Join the chat at https://gitter.im/nomilous/objective-dev](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nomilous/objective-dev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An [objective][1] plugin for testing -- And other goodies.
 
 ## Summary
